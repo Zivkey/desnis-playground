@@ -41,6 +41,7 @@ public class Shirt {
                 .id(this.id)
                 .name(this.name)
                 .price(this.price)
+                .size(this.size)
                 .createdAt(this.createdAt)
                 .build();
     }
