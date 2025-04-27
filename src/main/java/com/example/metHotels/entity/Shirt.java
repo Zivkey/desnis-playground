@@ -29,6 +29,9 @@ public class Shirt {
     @Column(name = "price")
     private Double price;
 
+    @Column(name = "blog_slug")
+    private String blogSlug;
+
     @Enumerated(EnumType.STRING)
     @Column(name = "size")
     private ShirtSizeEnum size;
