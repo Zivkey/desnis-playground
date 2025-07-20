@@ -1,4 +1,4 @@
-package com.example.metHotels;
+package com.example.ugchaus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
